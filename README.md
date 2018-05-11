@@ -1,7 +1,7 @@
 # flask-movie
 ### Online movie project
-##### 项目地址: http://movie.silence321.com 测试账号:test 密码:123456
-##### 管理员后台地址: http://movie.silence321.com/admin 账号:chen 密码:123456
+##### 项目地址: http://movie.silence321.com (测试账号:test 密码:123456)
+##### 管理员后台地址: http://movie.silence321.com/admin (账号:chen 密码:123456)
 ###### 1、简介: 在线微电影播放网站  flask+python3.6+mysql+pycharm
 ###### 2、项目目录结构：
     +--app
