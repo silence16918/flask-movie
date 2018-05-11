@@ -1,16 +1,16 @@
 # flask-movie
 
-![Image text](image/home.jpg)
-
 #### Online movie project
 #### 项目地址: http://movie.silence321.com (测试账号:test 密码:123456)
 #### 管理员后台地址: http://movie.silence321.com/admin (账号:chen 密码:123456)
-
+<br/>
+<br/>
+![Image text](image/home.jpg)
+<br/>
 #### 1、简介: 在线微电影播放网站  flask+python3.6+mysql+pycharm
 
 #### 2、主要实现功能：
 
-![Image text](image/admin.png)
 ##### admin后台模块:
 1,标签(分类)管理<br/>
 2,电影管理<br/>
@@ -22,8 +22,11 @@
 8,权限管理<br/>
 9,角色管理<br/>
 10,管理员管理<br/>
+<br/>
+<br/>
+![Image text](image/admin.png)
 
-![Image text](image/play.png)
+
 ##### home前台模块:
 1,用户注册,登录<br/>
 2,会员中心(资料编辑,修改密码,评论记录,登录日志,收藏电影)<br/>
@@ -31,6 +34,10 @@
 4,电影名称搜索<br/>
 5,电影筛选(分类,星级,上映时间,播放数量,评论数量)<br/>
 6,电影播放,评论,收藏<br/>
+<br/>
+<br/>
+![Image text](image/play.png)
+
  
 #### 3、项目目录结构：
 
