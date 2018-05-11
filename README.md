@@ -1,5 +1,5 @@
 # flask-movie
-![Image text](imgage/home.png)
+![Image text](image/home.png)
 
 #### Online movie project
 #### 项目地址: http://movie.silence321.com (测试账号:test 密码:123456)
@@ -10,7 +10,7 @@
 #### 2、主要实现功能：
 
 ##### admin后台模块:
-![Image text](imgage/admin.png)
+![Image text](image/admin.png)
 1,标签(分类)管理<br/>
 2,电影管理<br/>
 3,预告管理(首页轮播预告图片)<br/>
@@ -23,7 +23,7 @@
 10,管理员管理<br/>
     
 ##### home前台模块:
-![Image text](imgage/play.png)
+![Image text](image/play.png)
 1,用户注册,登录<br/>
 2,会员中心(资料编辑,修改密码,评论记录,登录日志,收藏电影)<br/>
 3,电影轮播预告<br/>
