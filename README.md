@@ -1,8 +1,8 @@
 # flask-movie
 
 #### Online movie project
-#### 项目地址: http://movie.silence321.com (测试账号:test 密码:123456)
-#### 管理员后台地址: http://movie.silence321.com/admin (账号:chen 密码:123456)
+### 项目地址: http://movie.silence321.com (测试账号:test 密码:123456)
+### 管理员后台地址: http://movie.silence321.com/admin (账号:chen 密码:123456)
 <br/>
 <br/>
 ![Image text](image/home.jpg)
@@ -23,8 +23,9 @@
 9,角色管理<br/>
 10,管理员管理<br/>
 <br/>
-<br/>
 ![Image text](image/admin.png)
+<br/>
+<br/>
 
 
 ##### home前台模块:
@@ -34,7 +35,6 @@
 4,电影名称搜索<br/>
 5,电影筛选(分类,星级,上映时间,播放数量,评论数量)<br/>
 6,电影播放,评论,收藏<br/>
-<br/>
 <br/>
 ![Image text](image/play.png)
 
