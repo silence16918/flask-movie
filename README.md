@@ -5,7 +5,7 @@
 #### 管理员后台地址: http://movie.silence321.com/admin (账号:chen 密码:123456)
 ![Image text](image/home.jpg)
 <br/>
-### 1、工具: 在线微电影播放网站  flask+python3.6+mysql+pycharm
+### 1、简介: 在线微电影播放网站  flask+python3.6+mysql+pycharm
 <br/>
 
 ### 2、主要实现功能：
