@@ -3,7 +3,7 @@
 #### Online movie project
 #### 项目地址: http://movie.silence321.com (测试账号:test 密码:123456)
 #### 管理员后台地址: http://movie.silence321.com/admin (账号:chen 密码:123456)
-<img width="800" src="image/home.jpg"/>
+<img width="900" src="image/home.jpg"/>
 <br/>
 
 ### 1、简介: 在线微电影播放网站  flask+python3.6+mysql+pycharm
@@ -23,7 +23,7 @@
 9,角色管理<br/>
 10,管理员管理<br/>
 <br/>
-<img width="800" src="image/admin.png"/>
+<img width="900" src="image/admin.png"/>
 <br/>
 <br/>
 <br/>
@@ -38,7 +38,7 @@
 5,电影筛选(分类,星级,上映时间,播放数量,评论数量)<br/>
 6,电影播放,评论,收藏<br/>
 <br/>
-<img width="800" src="image/play.png"/>
+<img width="900" src="image/play.png"/>
 <br/>
 
  
